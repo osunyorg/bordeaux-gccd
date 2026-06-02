@@ -45,10 +45,10 @@ design:
     offcanvas: false
 
 has:
-  administrators: 
+  administrators: true
   authors: false
-  researchers: 
-  teachers: 
+  researchers: false
+  teachers: false
 
 position: 4
 weight: 4
@@ -59,11 +59,21 @@ translationKey: communication-website-page-e7ae9a59-94d3-4082-b7b0-3c9a8b542de0
 
 children:
   - "authors/_index.html"
+  - "administrators/_index.html"
+  - "teachers/_index.html"
 child_pages:
   - permalink: "/personnes/equipe-editoriale/"
     path: "/authors"
     slug: "equipe-editoriale"
     file: "content/fr/authors/_index.html"
+  - permalink: "/personnes/equipe-administrative/"
+    path: "/administrators"
+    slug: "equipe-administrative"
+    file: "content/fr/administrators/_index.html"
+  - permalink: "/personnes/equipe-pedagogique/"
+    path: "/teachers"
+    slug: "equipe-pedagogique"
+    file: "content/fr/teachers/_index.html"
 
 
 header_cta:
