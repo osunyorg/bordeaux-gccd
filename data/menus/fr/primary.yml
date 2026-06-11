@@ -76,6 +76,13 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: Le BUT GCCD
+    slug: le-but-gccd
+    target: "/formations/gccd/"
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
   - title: Les parcours
     slug: les-parcours
     target: "/la-formation/les-parcours/"
@@ -122,6 +129,7 @@ items:
     path: "/pages/la-formation/alternance"
     file: content/fr/pages/la-formation/alternance/_index.html
   descendants_targets:
+  - "/formations/gccd/"
   - "/la-formation/alternance/"
   - "/la-formation/calendriers/"
   - "/la-formation/candidater/"
