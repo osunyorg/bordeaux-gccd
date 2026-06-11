@@ -1,0 +1,18 @@
+---
+title: top menu
+items:
+- title: INTRANET
+  slug: intranet
+  target: "/"
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
+- title: ALUMNI
+  slug: alumni
+  target: "/"
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
+
