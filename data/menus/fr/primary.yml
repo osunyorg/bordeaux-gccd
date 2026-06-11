@@ -1,69 +1,222 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
+- title: Le département
+  slug: le-departement
+  target: "/le-departement/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
+  children:
+  - title: Actualités
+    slug: actualites
+    target: "/actualites/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
+  - title: Organigramme
+    slug: organigramme
+    target: "/le-departement/organigramme/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/le-departement/organigramme"
+    file: content/fr/pages/le-departement/organigramme/_index.html
+  - title: Moyens pédagogiques
+    slug: moyens-pedagogiques
+    target: "/le-departement/moyens-pedagogiques/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/le-departement/moyens-pedagogiques"
+    file: content/fr/pages/le-departement/moyens-pedagogiques/_index.html
+  - title: Journée d'immersion
+    slug: journee-d-immersion
+    target: "/le-departement/journee-dimmersion/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/le-departement/journee-dimmersion"
+    file: content/fr/pages/le-departement/journee-dimmersion/_index.html
+  - title: Relations internationales
+    slug: relations-internationales
+    target: "/le-departement/relations-internationales/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/le-departement/relations-internationales"
+    file: content/fr/pages/le-departement/relations-internationales/_index.html
+  - title: Contact
+    slug: contact
+    target: "/le-departement/contact/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/le-departement/contact"
+    file: content/fr/pages/le-departement/contact/_index.html
+  descendants_targets:
+  - "/actualites/"
+  - "/le-departement/contact/"
+  - "/le-departement/journee-dimmersion/"
+  - "/le-departement/moyens-pedagogiques/"
+  - "/le-departement/organigramme/"
+  - "/le-departement/relations-internationales/"
+  path: "/pages/le-departement"
+  file: content/fr/pages/le-departement/_index.html
+- title: La formation
+  slug: la-formation
+  target: "/la-formation/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
+  children:
+  - title: Les parcours
+    slug: les-parcours
+    target: "/la-formation/les-parcours/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-formation/les-parcours"
+    file: content/fr/pages/la-formation/les-parcours/_index.html
+  - title: Calendriers
+    slug: calendriers
+    target: "/la-formation/calendriers/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-formation/calendriers"
+    file: content/fr/pages/la-formation/calendriers/_index.html
+  - title: Métiers & débouchés
+    slug: metiers-debouches
+    target: "/la-formation/metiers-debouches/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-formation/metiers-debouches"
+    file: content/fr/pages/la-formation/metiers-debouches/_index.html
+  - title: Candidater
+    slug: candidater
+    target: "/la-formation/candidater/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-formation/candidater"
+    file: content/fr/pages/la-formation/candidater/_index.html
+  - title: Alternance
+    slug: alternance
+    target: "/la-formation/alternance/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-formation/alternance"
+    file: content/fr/pages/la-formation/alternance/_index.html
+  descendants_targets:
+  - "/la-formation/alternance/"
+  - "/la-formation/calendriers/"
+  - "/la-formation/candidater/"
+  - "/la-formation/les-parcours/"
+  - "/la-formation/metiers-debouches/"
+  path: "/pages/la-formation"
+  file: content/fr/pages/la-formation/_index.html
+- title: Vie édudiante
+  slug: vie-edudiante
+  target: "/vie-edudiante/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
-- title: Personnes
-  slug: personnes
-  target: "/personnes/"
+  children:
+  - title: La rentrée
+    slug: la-rentree
+    target: "/vie-edudiante/la-rentree/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/vie-edudiante/la-rentree"
+    file: content/fr/pages/vie-edudiante/la-rentree/_index.html
+  - title: Vue sur le campus
+    slug: vue-sur-le-campus
+    target: "/vie-edudiante/vue-sur-le-campus/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/vie-edudiante/vue-sur-le-campus"
+    file: content/fr/pages/vie-edudiante/vue-sur-le-campus/_index.html
+  - title: Bureau Des Etudiants
+    slug: bureau-des-etudiants
+    target: "/vie-edudiante/bureau-des-etudiants/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/vie-edudiante/bureau-des-etudiants"
+    file: content/fr/pages/vie-edudiante/bureau-des-etudiants/_index.html
+  descendants_targets:
+  - "/vie-edudiante/bureau-des-etudiants/"
+  - "/vie-edudiante/la-rentree/"
+  - "/vie-edudiante/vue-sur-le-campus/"
+  path: "/pages/vie-edudiante"
+  file: content/fr/pages/vie-edudiante/_index.html
+- title: Entreprises
+  slug: entreprises
+  target: "/entreprises/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Organisations
-  slug: organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: Écoles
-  slug: ecoles
-  target: "/ecoles/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/schools"
-  file: content/fr/schools/_index.html
-- title: Diplômes
-  slug: diplomes
-  target: "/diplomes/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/diplomas"
-  file: content/fr/diplomas/_index.html
+  children:
+  - title: Parrainage
+    slug: parrainage
+    target: "/entreprises/parrainage/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/entreprises/parrainage"
+    file: content/fr/pages/entreprises/parrainage/_index.html
+  - title: Interventions
+    slug: interventions
+    target: "/entreprises/interventions/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/entreprises/interventions"
+    file: content/fr/pages/entreprises/interventions/_index.html
+  - title: Taxe d’apprentissage
+    slug: taxe-d-apprentissage
+    target: "/entreprises/taxe-dapprentissage/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/entreprises/taxe-dapprentissage"
+    file: content/fr/pages/entreprises/taxe-dapprentissage/_index.html
+  - title: Offres d'emploi
+    slug: offres-d-emploi
+    target: "/entreprises/offres-demploi/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/entreprises/offres-demploi"
+    file: content/fr/pages/entreprises/offres-demploi/_index.html
+  descendants_targets:
+  - "/entreprises/interventions/"
+  - "/entreprises/offres-demploi/"
+  - "/entreprises/parrainage/"
+  - "/entreprises/taxe-dapprentissage/"
+  path: "/pages/entreprises"
+  file: content/fr/pages/entreprises/_index.html
 - title: Formations
   slug: formations
   target: "/formations/"
@@ -73,13 +226,4 @@ items:
   descendants_targets: []
   path: "/programs"
   file: content/fr/programs/_index.html
-- title: Campus
-  slug: campus
-  target: "/campus/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/locations"
-  file: content/fr/locations/_index.html
 
