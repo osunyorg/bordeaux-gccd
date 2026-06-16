@@ -1,14 +1,14 @@
 ---
-title: top menu
+title: Top menu
 items:
-- title: INTRANET
+- title: Intranet
   slug: intranet
   target: "/"
   kind: url
   new_tab: true
   children: []
   descendants_targets: []
-- title: ALUMNI
+- title: Alumni
   slug: alumni
   target: "/"
   kind: url
