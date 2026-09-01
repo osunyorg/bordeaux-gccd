@@ -18,3 +18,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/formations/cs/assc/index.html"
 to = "/formations/cs/acps/"
 
+[[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/calendrier-techren-session2026pdf/"
+
