@@ -101,8 +101,8 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/calendriers"
     file: content/fr/pages/la-formation/calendriers/_index.html
-  - title: Métiers & débouchés
-    slug: metiers-debouches
+  - title: Métiers et débouchés
+    slug: metiers-et-debouches
     target: "/la-formation/metiers-debouches/"
     kind: page
     new_tab: false
@@ -161,7 +161,7 @@ items:
     descendants_targets: []
     path: "/pages/vie-edudiante/vue-sur-le-campus"
     file: content/fr/pages/vie-edudiante/vue-sur-le-campus/_index.html
-  - title: Bureau Des Etudiants
+  - title: Bureau des étudiants
     slug: bureau-des-etudiants
     target: "/vie-edudiante/bureau-des-etudiants/"
     kind: page
