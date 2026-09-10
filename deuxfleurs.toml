@@ -22,3 +22,7 @@ to = "/formations/cs/acps/"
 from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/calendrier-techren-session2026pdf/"
 
+[[redirects]]
+from = "/actualites/2025-11-27-recrutement-et-journee-portes-ouvertes-2026/index.html"
+to = "/actualites/2025-11-27-recrutement-et-portes-ouvertes-2026/"
+
