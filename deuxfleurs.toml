@@ -19,6 +19,10 @@ from = "/formations/cs/assc/index.html"
 to = "/formations/cs/acps/"
 
 [[redirects]]
+from = "/formations/securiser-dossier-paie/index.html"
+to = "/formations/fiabiliser-dsn-securiser-dossier-paie/"
+
+[[redirects]]
 from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/calendrier-techren-session2026pdf/"
 
