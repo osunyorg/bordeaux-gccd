@@ -154,13 +154,13 @@ items:
     file: content/fr/pages/vie-edudiante/la-rentree/_index.html
   - title: Vue sur le campus
     slug: vue-sur-le-campus
-    target: "/vie-edudiante/vue-sur-le-campus/"
+    target: "/vie-edudiante/vie-sur-le-campus/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/vie-edudiante/vue-sur-le-campus"
-    file: content/fr/pages/vie-edudiante/vue-sur-le-campus/_index.html
+    path: "/pages/vie-edudiante/vie-sur-le-campus"
+    file: content/fr/pages/vie-edudiante/vie-sur-le-campus/_index.html
   - title: Bureau des étudiants
     slug: bureau-des-etudiants
     target: "/vie-edudiante/bureau-des-etudiants/"
@@ -173,7 +173,7 @@ items:
   descendants_targets:
   - "/vie-edudiante/bureau-des-etudiants/"
   - "/vie-edudiante/la-rentree/"
-  - "/vie-edudiante/vue-sur-le-campus/"
+  - "/vie-edudiante/vie-sur-le-campus/"
   path: "/pages/vie-edudiante"
   file: content/fr/pages/vie-edudiante/_index.html
 - title: Entreprises

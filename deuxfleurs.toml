@@ -19,6 +19,10 @@ from = "/formations/cs/assc/index.html"
 to = "/formations/cs/acps/"
 
 [[redirects]]
+from = "/vie-edudiante/vue-sur-le-campus/index.html"
+to = "/vie-edudiante/vie-sur-le-campus/"
+
+[[redirects]]
 from = "/formations/securiser-dossier-paie/index.html"
 to = "/formations/fiabiliser-dsn-securiser-dossier-paie/"
 
