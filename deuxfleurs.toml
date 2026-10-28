@@ -15,8 +15,16 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-10-27-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/index.html"
+to = "/actualites/2026-10-16-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/"
+
+[[redirects]]
 from = "/formations/cs/assc/index.html"
 to = "/formations/cs/acps/"
+
+[[redirects]]
+from = "/actualites/2026-08-25-trophee-jeunes-2026/index.html"
+to = "/actualites/2026-06-18-trophee-jeunes-2026/"
 
 [[redirects]]
 from = "/vie-edudiante/vue-sur-le-campus/index.html"
@@ -28,7 +36,7 @@ to = "/formations/fiabiliser-dsn-securiser-dossier-paie/"
 
 [[redirects]]
 from = "/actualites/2026-10-27-visite-de-chantier-chantier-atala-et-combourg-grace-a-lentreprise-gtm-batiment-vinci-construction/index.html"
-to = "/actualites/2026-10-27-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/"
+to = "/actualites/2026-10-16-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/"
 
 [[redirects]]
 from = "/fichiers/2026/index.html"
