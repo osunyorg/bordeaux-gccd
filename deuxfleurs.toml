@@ -27,6 +27,10 @@ from = "/formations/securiser-dossier-paie/index.html"
 to = "/formations/fiabiliser-dsn-securiser-dossier-paie/"
 
 [[redirects]]
+from = "/actualites/2026-10-27-visite-de-chantier-chantier-atala-et-combourg-grace-a-lentreprise-gtm-batiment-vinci-construction/index.html"
+to = "/actualites/2026-10-27-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/"
+
+[[redirects]]
 from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/calendrier-techren-session2026pdf/"
 
