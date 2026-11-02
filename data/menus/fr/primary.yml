@@ -128,9 +128,19 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/alternance"
     file: content/fr/pages/la-formation/alternance/_index.html
+  - title: Approche pédagogique
+    slug: approche-pedagogique
+    target: "/la-formation/approche-pedagogique/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-formation/approche-pedagogique"
+    file: content/fr/pages/la-formation/approche-pedagogique/_index.html
   descendants_targets:
   - "/formations/gccd/"
   - "/la-formation/alternance/"
+  - "/la-formation/approche-pedagogique/"
   - "/la-formation/calendriers/"
   - "/la-formation/candidater/"
   - "/la-formation/les-parcours/"
