@@ -191,6 +191,15 @@ items:
     descendants_targets: []
     path: "/pages/entreprises/parrainage"
     file: content/fr/pages/entreprises/parrainage/_index.html
+  - title: Découverte des métiers
+    slug: decouverte-des-metiers
+    target: "/entreprises/decouverte-des-metiers/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/entreprises/decouverte-des-metiers"
+    file: content/fr/pages/entreprises/decouverte-des-metiers/_index.html
   - title: Interventions
     slug: interventions
     target: "/entreprises/interventions/"
@@ -219,6 +228,7 @@ items:
     path: "/pages/entreprises/offres-demploi"
     file: content/fr/pages/entreprises/offres-demploi/_index.html
   descendants_targets:
+  - "/entreprises/decouverte-des-metiers/"
   - "/entreprises/interventions/"
   - "/entreprises/offres-demploi/"
   - "/entreprises/parrainage/"

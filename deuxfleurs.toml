@@ -31,6 +31,10 @@ from = "/actualites/2026-08-25-trophee-jeunes-2026/index.html"
 to = "/actualites/2026-06-18-trophee-jeunes-2026/"
 
 [[redirects]]
+from = "/personnes/ting-ting-vogt-wu/index.html"
+to = "/personnes/tingting-vogt-wu/"
+
+[[redirects]]
 from = "/vie-edudiante/vue-sur-le-campus/index.html"
 to = "/vie-edudiante/vie-sur-le-campus/"
 
