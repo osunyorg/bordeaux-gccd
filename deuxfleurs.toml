@@ -31,6 +31,10 @@ from = "/vie-edudiante/vue-sur-le-campus/index.html"
 to = "/vie-edudiante/vie-sur-le-campus/"
 
 [[redirects]]
+from = "/actualites/2025-11-27-recrutement-et-portes-ouvertes-2026/index.html"
+to = "/actualites/2026-11-02-recrutement-et-portes-ouvertes-2027/"
+
+[[redirects]]
 from = "/formations/securiser-dossier-paie/index.html"
 to = "/formations/fiabiliser-dsn-securiser-dossier-paie/"
 
@@ -44,7 +48,7 @@ to = "/fichiers/2026/calendrier-techren-session2026pdf/"
 
 [[redirects]]
 from = "/actualites/2025-11-27-recrutement-et-journee-portes-ouvertes-2026/index.html"
-to = "/actualites/2025-11-27-recrutement-et-portes-ouvertes-2026/"
+to = "/actualites/2026-11-02-recrutement-et-portes-ouvertes-2027/"
 
 [[redirects]]
 from = "/formations/gp/index.html"
