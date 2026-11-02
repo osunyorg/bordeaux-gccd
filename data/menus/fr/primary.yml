@@ -152,8 +152,8 @@ items:
     descendants_targets: []
     path: "/pages/vie-edudiante/la-rentree"
     file: content/fr/pages/vie-edudiante/la-rentree/_index.html
-  - title: Vue sur le campus
-    slug: vue-sur-le-campus
+  - title: Vie sur le campus
+    slug: vie-sur-le-campus
     target: "/vie-edudiante/vie-sur-le-campus/"
     kind: page
     new_tab: false
