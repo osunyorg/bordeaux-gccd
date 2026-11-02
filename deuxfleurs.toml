@@ -59,6 +59,10 @@ from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/calendrier-techren-session2026pdf/"
 
 [[redirects]]
+from = "/offre-de-stage-ou-dalternance/index.html"
+to = "/entreprises/offre-de-stage-ou-dalternance/"
+
+[[redirects]]
 from = "/actualites/2025-11-27-recrutement-et-journee-portes-ouvertes-2026/index.html"
 to = "/actualites/2026-11-02-recrutement-et-portes-ouvertes-2027/"
 
