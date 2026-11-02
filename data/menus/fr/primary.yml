@@ -191,6 +191,15 @@ items:
     descendants_targets: []
     path: "/pages/entreprises/parrainage"
     file: content/fr/pages/entreprises/parrainage/_index.html
+  - title: Visites
+    slug: visites
+    target: "/actualites/visites/"
+    kind: category
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/posts_categories/visites"
+    file: content/fr/posts_categories/visites/_index.html
   - title: Interventions
     slug: interventions
     target: "/entreprises/interventions/"
@@ -219,6 +228,7 @@ items:
     path: "/pages/entreprises/offres-demploi"
     file: content/fr/pages/entreprises/offres-demploi/_index.html
   descendants_targets:
+  - "/actualites/visites/"
   - "/entreprises/interventions/"
   - "/entreprises/offres-demploi/"
   - "/entreprises/parrainage/"
