@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/decouverte-des-metiers/index.html"
+to = "/entreprises/decouverte-des-metiers/"
+
+[[redirects]]
 from = "/actualites/2026-10-27-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/index.html"
 to = "/actualites/2026-10-16-une-semaine-pedagogique-particuliere-pour-nos-etudiants-de-2e-annee/"
 
