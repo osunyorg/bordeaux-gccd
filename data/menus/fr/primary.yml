@@ -147,8 +147,8 @@ items:
   - "/la-formation/metiers-debouches/"
   path: "/pages/la-formation"
   file: content/fr/pages/la-formation/_index.html
-- title: Vie édudiante
-  slug: vie-edudiante
+- title: Vie étudiante
+  slug: vie-etudiante
   target: "/vie-edudiante/"
   kind: page
   new_tab: false
