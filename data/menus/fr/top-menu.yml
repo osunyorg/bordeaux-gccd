@@ -3,7 +3,7 @@ title: Top menu
 items:
 - title: Intranet
   slug: intranet
-  target: "/"
+  target: https://intranet.u-bordeaux.fr/personnels
   kind: url
   new_tab: true
   children: []
