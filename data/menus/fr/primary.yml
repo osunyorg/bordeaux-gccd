@@ -16,8 +16,8 @@ items:
     descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
-  - title: Organigramme
-    slug: organigramme
+  - title: L'équipe
+    slug: l-equipe
     target: "/le-departement/organigramme/"
     kind: page
     new_tab: false
