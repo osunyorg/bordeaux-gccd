@@ -52,8 +52,8 @@ items:
     descendants_targets: []
     path: "/pages/le-departement/relations-internationales"
     file: content/fr/pages/le-departement/relations-internationales/_index.html
-  - title: Contact
-    slug: contact
+  - title: Contacts
+    slug: contacts
     target: "/le-departement/contact/"
     kind: page
     new_tab: false
