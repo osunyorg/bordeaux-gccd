@@ -92,8 +92,8 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/les-parcours"
     file: content/fr/pages/la-formation/les-parcours/_index.html
-  - title: Déroulement des années de formation
-    slug: deroulement-des-annees-de-formation
+  - title: Calendriers de la formation
+    slug: calendriers-de-la-formation
     target: "/la-formation/calendriers/"
     kind: page
     new_tab: false
