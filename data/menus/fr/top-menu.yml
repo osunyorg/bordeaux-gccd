@@ -8,11 +8,4 @@ items:
   new_tab: true
   children: []
   descendants_targets: []
-- title: Alumni
-  slug: alumni
-  target: "/"
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
 
